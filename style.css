@@ -1,0 +1,188 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+margin-top: 37px;
+margin-left: 200px;
+margin-right: 170px;
+}
+
+.row{
+display: flex;
+gap: 30px;
+}
+ul{
+display: flex;
+align-items: center;
+list-style-type: none;
+}
+a{
+text-decoration: none;
+font-size: 20px;
+}
+.a1{
+color: #DE2E54;
+}
+.a2,.a3,.a4{
+margin-left: 170px;
+}
+.b1{
+margin-left: 100px;
+color: #DE2E54;
+border: 1px solid #DE2E54;
+padding-left: 24px;
+padding-right: 24px;
+padding-top: 12px;
+padding-bottom: 12px;
+background-color: white;
+font-size: 15px;
+}
+.a2:hover{
+color: #DE2E54;
+}
+.a3:hover{
+    color: #DE2E54;
+    }
+    .a4:hover{
+        color: #DE2E54;
+        }
+header{
+background-image: url(img/image\ 4\ \(2\).png);
+height: 550px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-top: 30px;
+}
+.container2{
+margin-left: 170px;
+margin-right: 150px;
+display: flex;
+}  
+h1{
+color: white;
+}
+.b2{
+background-color: #DE2E54CC;
+color: white;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 24px;
+padding-right: 24px;
+border: none;
+font-size: 20px;
+}
+.i1{
+margin-top: 65px;
+margin-left: 250px;
+}
+h2{
+text-align: center;
+}
+.container3{
+margin-left: 288px;
+}
+.card{
+display: flex;
+}
+p{
+margin-top: 50px;
+}
+.card2{
+display: flex;
+}
+.x3{
+margin-top: 10px;
+}
+.i2{
+margin-left: 50px;
+}
+.container4{
+background-color: #0EB4C1;
+padding-left: 240px;
+padding-right: 160px;
+}
+h4{
+text-align: center;
+font-size: 35px;
+}
+iframe{
+width: 500px;
+height: 270px;
+margin-top: 100px;
+}
+.aa{
+display: flex;
+}
+.row5{
+background-color: white;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-bottom: 100px;
+border-radius: 20px;
+margin-left: 50px;
+margin-top: 100px;
+}
+input{
+width: 400px;
+height: 30px;
+}
+.b3{
+width: 402px;
+background-color: #38CC8B;
+border: none;
+}
+.in{
+border: 3px solid #38CC8B;
+}
+.row6{
+display: flex;
+}
+ul{
+display: flex;
+}
+.q1{
+color: #DE2E54;
+}
+.q2{
+margin-left: 900px;
+color: #DE2E54;
+}
+.q3{
+margin-left: 30px;
+color: white;
+}
+.q4{
+margin-left: 30px;
+color: white;
+}
+.container5{
+background-color: black;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 170px;
+padding-right: 170px;
+}
+.row-2 {
+    display: flex;
+    align-items:center;
+    gap: 64px;
+}
+.container-3{
+margin-left: 300px;
+margin-right: 150px;
+}
+.x2{
+margin-right: 130px;
+}
+.x3{
+margin-right: 50px;
+}
+.q3:hover{
+color: #DE2E54;
+}
+.q4:hover{
+    color: #DE2E54;
+    }
